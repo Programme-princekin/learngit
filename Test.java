@@ -3,6 +3,6 @@ public class Test{
 		System.out.println("Hello git");
 }
 	public static void stop(){
-	Sysout.println()
+	Sysout.out.println("èµke ,nizai douwo ma");
 }
 }
