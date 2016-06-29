@@ -3,6 +3,6 @@ public class Test{
 		System.out.println("Hello git");
 }
 	public static void stop(){
-		System.out.println("My name is   WGL");
+		System.out.println("My name is WGL");
 }
 }
