@@ -4,5 +4,6 @@ public class Test{
 }
 	public static void stop(){
 	Sysout.out.println("èµke ,nizai douwo ma");
+	Sysout.out.println("should can use dev");
 }
 }
